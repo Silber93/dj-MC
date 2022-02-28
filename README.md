@@ -5,7 +5,7 @@ In this project we implemented a reinforcement-Learning based algorithm that off
 Paper:
 https://arxiv.org/pdf/1401.1880.pdf
 
-Data source (million Song Dataset):
+Data source (million Song Dataset): 
 http://millionsongdataset.com/pages/getting-dataset/
 
 Instructions:
